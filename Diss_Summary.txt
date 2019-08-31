@@ -1,0 +1,16 @@
+{
+"distribsumm_part_first_name": "",
+"distribsumm_part_middle_name": "",
+"distribsumm_part_last_name": "",
+"distribsumm_part_dob": "",
+"distribsumm_part_ssn": "",
+"distribsumm_part_date_distribution": "",
+"distribsumm_part_gross_distribution": "",
+"distribsumm_part_taxes_withheld": "",
+"distribsumm_part_loan_deemed_distrib": "",
+"distribsumm_part_forf_amt": "",
+"distribsumm_part_net_check_amt": "",
+"distribsumm_part_distrib_type": "",
+"distribsumm_part_distrib_payee": "",
+"distribsumm_entry_status": "" 
+}
